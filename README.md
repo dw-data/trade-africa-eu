@@ -34,7 +34,7 @@ We first found out which were the top 5 most exported products from Africa to th
 In order to better understand the flows of broader categories, we first selected and classified HS2 chapters based on the top 5 imported and exported goods between the EU and Sub-Saharan Africa listed in a recent European Commission <a href='https://webgate.ec.europa.eu/isdb_results/factsheets/region/details_africa-all-countries_en.pdf'>report</a>. 
 
 The report listed the following categories and chapters:<br>
-"Imports EU<br>
+Imports EU<br>
 V Mineral products: ch 25-27<br>
 IV Foodstuffs, beverages, tobacco: ch. 16-24<br>
 XVII Transport equipment: ch. 86-89<br>
@@ -46,7 +46,7 @@ XVI Machinery and appliances<br>
 V Mineral products<br>
 VI Products of the chemical or allied industries: ch. 28-38<br>
 XVII Transport equipment<br>
-XV Base metals and articles thereof<br>"
+XV Base metals and articles thereof<br>
 
 We classified them as follows:<br>
 II Vegetable products: ch. 6-14 <i>>> vegetables and minerals</i><br>
