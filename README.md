@@ -57,3 +57,4 @@ XV Base metals and articles thereof: chp. 72-83 <i>>> refined goods</i><br>
 XVI Machinery and appliances: ch. 84-85 <i>>> refined goods</i><br>
 XVII Transport equipment: ch. 86-89 <i>>> refined goods</i><br>
 
+Details on the exact calculation can be checked in the code book. 
