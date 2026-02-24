@@ -1,7 +1,7 @@
 # How has Africa-EU trade evolved in the past 25 years?
 The 11th OACPS Summit in March 2026 in Malabo marks the 50th anniversary of the foundation of the Organisation of African, Caribbean and Pacific States (OACPS) and the first Lomé Convention, one of the oldest partnerships between the EU and third countries. 
 
-In this story, we explore how trade has evolved between Africa, particularly African ACP countries, and who has benefited from these agreements. 
+In this story, we explore how trade has evolved between Africa -particularly African ACP countries- and the EU, and who has benefited from these agreements. 
 
 - <i>Story idea and writing: David Ehl
 
